@@ -3,7 +3,7 @@
 
 ## Sobre mim
 
-👨‍💻 A um ano comecei o estudo de programação de computadores, e sim, é preciso se apaixonar pelo processo para desejar a cada dia se desafiar e aprender nessa área que é um universo.
+👨‍💻 A um ano comecei estudar programação de computadores, e sim, é preciso se apaixonar pelo processo, para desejar a cada dia se desafiar e aprender nessa área que é um universo.
 
 🔭 Atualmente, estou estudando no Serratec e concluindo minha primeira formação fullstack. Nesse período tive contato com diversos frameworks, ferramentas e proejetos.
 
@@ -15,12 +15,12 @@
 
 ## 🚀 Minhas Habilidades
 
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  - ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+  - ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  - ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-  - ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 
 - Frameworks e Ferramentas:
@@ -40,9 +40,10 @@
 
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?DouglasBragaF=seu-DouglasBragaF&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DouglasBragaF&show_icons=true&theme=radical)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?DouglasBragaF=seu-DouglasBragaF&layout=compact&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasBragaF&layout=compact&theme=radical)
+
 
 
 <!---
