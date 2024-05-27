@@ -5,9 +5,9 @@
 
 👨‍💻 A um ano comecei estudar programação de computadores, e sim, é preciso se apaixonar pelo processo, para desejar a cada dia se desafiar e aprender nessa área que é um universo.
 
-🔭 Atualmente, estou estudando no Serratec e concluindo minha primeira formação fullstack. Nesse período tive contato com diversos frameworks, ferramentas e proejetos.
+🔭 Atualmente, estudando no Serratec e concluindo minha primeira formação fullstack. Nesse período tive contato com diversos frameworks, ferramentas e proejetos.
 
-🌱 No momento, estou desenvolvendo aplicações em C# e Java, frameworks como Blazor e React além de bancos de dados como Postgres e MongoDb 
+🌱 No momento, desenvolvendo aplicações em C# e Java, frameworks como Blazor e React além de bancos de dados como Postgres e MongoDb 
 
 📫 Como me encontrar: [douglasbragaf@gmail.com] | [LinkedIn](https://www.linkedin.com/in/douglas-braga-frança/)
 
