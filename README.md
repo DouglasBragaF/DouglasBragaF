@@ -5,7 +5,7 @@
 
 👨‍💻 A um ano comecei estudar programação de computadores, e sim, é preciso se apaixonar pelo processo, para desejar a cada dia se desafiar e aprender nessa área que é um universo.
 
-🔭 Atualmente, estudando no Serratec e concluindo minha primeira formação fullstack. Nesse período tive contato com diversos frameworks, ferramentas e proejetos.
+🔭 Atualmente, estudando no Serratec e concluindo minha primeira formação fullstack. Nesse período tive contato com diversos frameworks, ferramentas e projetos.
 
 🌱 No momento, desenvolvendo aplicações em C# e Java, frameworks como Blazor e React além de bancos de dados como Postgres e MongoDb 
 
@@ -29,7 +29,6 @@
   - ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
   - ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   - ![Thunder Client](https://img.shields.io/badge/Thunder_Client-000000?style=for-the-badge&logo=thunderclient&logoColor=white)
-  - ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jwt&logoColor=white)
   - ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
   - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
