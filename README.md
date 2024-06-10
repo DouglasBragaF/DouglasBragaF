@@ -3,11 +3,11 @@
 
 ## Sobre mim
 
-👨‍💻 A um ano comecei estudar programação de computadores, e sim, é preciso se apaixonar pelo processo, para desejar a cada dia se desafiar e aprender nessa área que é um universo.
+👨‍💻 Há um ano comecei a estudar programação de computadores e, sim, é preciso se apaixonar pelo processo para desejar, a cada dia, se desafiar e aprender nessa área que é um verdadeiro universo.
 
-🔭 No momento terminei meu primeiro curso full-stack e estou fazendo a residência do Serratec - Senai, com diversos projetos reais em equipe. Nesse período tive contato com diversos Linguans de progamação, bibliotecas e frameworks.
+🔭 Recentemente, concluí meu primeiro curso full-stack e atualmente estou participando da residência do Serratec - Senai, onde trabalho em diversos projetos reais em equipe. Durante esse período, tive contato com várias linguagens de programação, bibliotecas e frameworks.
 
-🌱 No momento, desenvolvendo aplicações em C#, Java, JavaScript bibliotecas como React, além de bancos de dados como Postgres, Mysql e MongoDb 
+🌱 Atualmente, estou desenvolvendo aplicações em C#, Java e JavaScript, utilizando bibliotecas como React, além de bancos de dados como PostgreSQL, MySQL e MongoDB. 
 
 📫 Como me encontrar: [douglasbragaf@gmail.com] | [LinkedIn](https://www.linkedin.com/in/douglas-braga-frança/)
 
