@@ -5,9 +5,9 @@
 
 👨‍💻 A um ano comecei estudar programação de computadores, e sim, é preciso se apaixonar pelo processo, para desejar a cada dia se desafiar e aprender nessa área que é um universo.
 
-🔭 Atualmente, estudando no Serratec e concluindo minha primeira formação fullstack. Nesse período tive contato com diversos frameworks, ferramentas e projetos.
+🔭 No momento terminei meu primeiro curso full-stack e estou fazendo a residência do Serratec - Senai, com diversos projetos reais em equipe. Nesse período tive contato com diversos Linguans de progamação, bibliotecas e frameworks.
 
-🌱 No momento, desenvolvendo aplicações em C# e Java, frameworks como Blazor e React além de bancos de dados como Postgres e MongoDb 
+🌱 No momento, desenvolvendo aplicações em C#, Java, JavaScript bibliotecas como React, além de bancos de dados como Postgres, Mysql e MongoDb 
 
 📫 Como me encontrar: [douglasbragaf@gmail.com] | [LinkedIn](https://www.linkedin.com/in/douglas-braga-frança/)
 
@@ -23,7 +23,7 @@
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
-- Frameworks e Ferramentas:
+- Bibliotecas e Ferramentas:
   - ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   - ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
   - ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
