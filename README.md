@@ -1,5 +1,4 @@
 # Olá, me chamo Douglas! 👋
-![Visitas no perfil](https://komarev.com/ghpvc/DouglasBragaF=seu-DouglasBragaF&color=blue)
 
 ## Sobre mim
 
