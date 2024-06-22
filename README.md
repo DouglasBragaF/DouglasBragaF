@@ -25,7 +25,6 @@
 
 - Bibliotecas e Ferramentas:
   - ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  - ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
   - ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
   - ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   - ![Thunder Client](https://img.shields.io/badge/Thunder_Client-000000?style=for-the-badge&logo=thunderclient&logoColor=white)
@@ -35,15 +34,6 @@
 - Bancos de Dados:
   - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-  - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-## 📈 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DouglasBragaF&show_icons=true&theme=radical)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasBragaF&layout=compact&theme=radical)
-
-
 
 <!---
 DouglasBragaF/DouglasBragaF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
